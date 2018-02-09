@@ -1,0 +1,128 @@
+/*
+*
+* Modified and extended by: Leon van den Beukel 
+*
+* Original file:
+*
+*  Project:     Segmented LED Display - ASCII Library
+*  @author:     David Madison, 
+*  @link:       github.com/dmadison/Segmented-LED-Display-ASCII
+*  @license:    MIT - Copyright (c) 2017 David Madison
+*
+* Permission is hereby granted, free of charge, to any person obtaining a copy
+* of this software and associated documentation files (the "Software"), to deal
+* in the Software without restriction, including without limitation the rights
+* to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+* copies of the Software, and to permit persons to whom the Software is
+* furnished to do so, subject to the following conditions:
+*
+* The above copyright notice and this permission notice shall be included in
+* all copies or substantial portions of the Software.
+*
+* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+* IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+* FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+* AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+* LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+* OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+* THE SOFTWARE.
+*/
+
+const uint16_t FourteenSegmentASCII[96] = {
+	0b000000000000000, // (space) 	0		32
+	0b100000000000110, // ! 		1		33
+	0b000001000000010, // " 		2		34
+	0b001001011001110, // # 		3		35
+	0b001001011101101, // $ 		4		36
+	0b011111111100100, // % 		5		37
+	0b000101101011001, // & 		6		38
+	0b000001000000000, // ' 		7		39
+	0b000110000000000, // ( 		8		40
+	0b010000100000000, // ) 		9		41
+	0b011111111000000, // * 		10		42
+	0b001001011000000, // + 		11		43
+	0b010000000000000, // , 		12		44
+	0b000000011000000, // - 		13		45
+	0b100000000000000, // . 		14		46
+	0b010010000000000, // / 		15		47
+	0b010010000111111, // 0 		16		48
+	0b000010000000110, // 1 		17		49
+	0b000000011011011, // 2 		18		50
+	0b000000010001111, // 3 		19		51
+	0b000000011100110, // 4 		20		52
+	0b000100001101001, // 5 		21		53
+	0b000000011111101, // 6 		22		54
+	0b000000000000111, // 7 		23		55
+	0b000000011111111, // 8 		24		56
+	0b000000011101111, // 9 		25		57
+	0b001001000000000, // : 		26		58
+	0b010001000000000, // ; 		27		59
+	0b000110001000000, // < 		28		60
+	0b000000011001000, // = 		29		61
+	0b010000110000000, // > 		30		62
+	0b101000010000011, // ? 		31		63
+	0b000001010111011, // @ 		32		64
+	0b000000011110111, // A 		33		65
+	0b001001010001111, // B 		34		66
+	0b000000000111001, // C 		35		67
+	0b001001000001111, // D 		36		68
+	0b000000001111001, // E 		37		69
+	0b000000001110001, // F 		38		70
+	0b000000010111101, // G 		39		71
+	0b000000011110110, // H 		40		72
+	0b001001000001001, // I 		41		73
+	0b000000000011110, // J 		42		74
+	0b000110001110000, // K 		43		75
+	0b000000000111000, // L 		44		76
+	0b000010100110110, // M 		45		77
+	0b000100100110110, // N 		46		78
+	0b000000000111111, // O 		47		79
+	0b000000011110011, // P 		48		80
+	0b000100000111111, // Q 		49		81
+	0b000100011110011, // R 		50		82
+	0b000000011101101, // S 		51		83
+	0b001001000000001, // T 		52		84
+	0b000000000111110, // U 		53		85
+	0b010010000110000, // V 		54		86
+	0b010100000110110, // W 		55		87
+	0b010110100000000, // X 		56		88
+	0b000000011101110, // Y 		57		89
+	0b010010000001001, // Z 		58		90
+	0b000000000111001, // [ 		59		91
+	0b000100100000000, // \ 		60		92
+	0b000000000001111, // ] 		61		93
+	0b010100000000000, // ^ 		62		94
+	0b000000000001000, // _ 		63		95
+	0b000000100000000, // ` 		64		96
+	0b001000001011000, // a 		65		97
+	0b000100001111000, // b 		66		98
+	0b000000011011000, // c 		67		99
+	0b010000010001110, // d 		68		100
+	0b010000001011000, // e 		69		101
+	0b001010011000000, // f 		70		102
+	0b000010010001110, // g 		71		103
+	0b001000001110000, // h 		72		104
+	0b001000000000000, // i 		73		105
+	0b010001000010000, // j 		74		106
+	0b001111000000000, // k 		75		107
+	0b000000000110000, // l 		76		108
+	0b001000011010100, // m 		77		109
+	0b001000001010000, // n 		78		110
+	0b000000011011100, // o 		79		111
+	0b000000101110000, // p 		80		112
+	0b000010010000110, // q 		81		113
+	0b000000001010000, // r 		82		114
+	0b000100010001000, // s 		83		115
+	0b000000001111000, // t 		84		116
+	0b000000000011100, // u 		85		117
+	0b010000000010000, // v 		86		118
+	0b010100000010100, // w 		87		119
+	0b010110100000000, // x 		88		120
+	0b000001010001110, // y 		89		121
+	0b010000001001000, // z 		90		122
+	0b010000101001001, // { 		91		123
+	0b001001000000000, // | 		92		124
+	0b000110010001001, // } 		93		125
+	0b010010011000000, // ~ 		94		126
+	0b000000000000000, // (del) 	95		127
+};
