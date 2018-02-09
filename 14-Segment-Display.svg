@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg4725"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="14-Segment-Display.svg">
+  <defs
+     id="defs4727" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="19.650014"
+     inkscape:cy="500.87973"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4730">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Top"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5330"
+       transform="matrix(0,1,-1,0,697.56954,498.05655)">
+      <circle
+         r="15.236406"
+         cy="590.77985"
+         cx="453.52884"
+         id="path4427"
+         style="display:inline;opacity:0.725;fill:none;fill-opacity:0;stroke:#000000;stroke-width:2.83464551;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      <polygon
+         transform="matrix(34.529434,0,0,29.789139,111.45546,35.57861)"
+         id="a"
+         points="8,0 9,1 8,2 2,2 1,1 2,0 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07686944;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(34.477997,0,0,29.833581,120.85414,43.254682)"
+         id="b"
+         points="10,8 9,9 8,8 8,2 9,1 10,2 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07686944;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(34.477997,0,0,29.833581,120.85414,58.69571)"
+         id="c"
+         points="10,16 9,17 8,16 8,10 9,9 10,10 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07686944;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(34.529434,0,0,29.789139,111.45546,67.171731)"
+         id="d"
+         points="2,18 1,17 2,16 8,16 9,17 8,18 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07686944;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(34.477997,0,0,29.833581,102.57117,58.69571)"
+         id="e"
+         points="0,10 1,9 2,10 2,16 1,17 0,16 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07686944;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(34.477997,0,0,29.833581,102.57117,43.254682)"
+         id="f"
+         points="0,2 1,1 2,2 2,8 1,9 0,8 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07686944;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(34.501302,0,0,29.789139,107.07199,51.375171)"
+         id="g1"
+         points="4,8 5,9 4,10 2,10 1,9 2,8 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07690077;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(34.501302,0,0,29.789139,116.12026,51.375171)"
+         id="g2"
+         points="8,8 9,9 8,10 6,10 5,9 6,8 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07690077;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(34.477997,0,0,29.834176,111.71265,44.216471)"
+         id="h"
+         points="5,9 4,8 4,2 6,2 6,8 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07686868;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(34.477997,0,0,29.834176,111.71265,57.723199)"
+         id="i"
+         points="6,16 4,16 4,10 5,9 6,10 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07686868;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(34.477997,0,0,29.834971,107.14191,43.247732)"
+         id="j"
+         points="4,7 4,8 3,8 2,3 2,2 3,2 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07686765;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(34.477997,0,0,29.834971,116.2834,43.247732)"
+         id="k"
+         points="7,8 6,8 6,7 7,2 8,2 8,3 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07686765;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(34.477997,0,0,29.834971,116.2834,58.677639)"
+         id="l"
+         points="8,15 8,16 7,16 6,11 6,10 7,10 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07686765;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(34.477997,0,0,29.834971,107.14191,58.677639)"
+         id="m"
+         points="3,16 2,16 2,15 3,10 4,10 4,11 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07686765;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Back">
+    <g
+       id="g5444"
+       transform="translate(-59.078369,-635.71429)">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4359"
+         y="-702.87378"
+         x="810.32361"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-702.87378"
+           x="810.32361"
+           id="tspan4361"
+           sodipodi:role="line">a0</tspan></text>
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1034.7303"
+         y="-637.11108"
+         id="text4363"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4365"
+           x="1034.7303"
+           y="-637.11108">b1</tspan></text>
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4371"
+         y="-380.1619"
+         x="1034.7303"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-380.1619"
+           x="1034.7303"
+           id="tspan4373"
+           sodipodi:role="line">c2</tspan></text>
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="806.93372"
+         y="-190.33141"
+         id="text4375"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4377"
+           x="806.93372"
+           y="-190.33141">d3</tspan></text>
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4379"
+         y="-388.29752"
+         x="741.17102"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-388.29752"
+           x="741.17102"
+           id="tspan4381"
+           sodipodi:role="line">e4</tspan></text>
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="740.4931"
+         y="-636.43311"
+         id="text4383"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4385"
+           x="740.4931"
+           y="-636.43311">f5</tspan></text>
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4387"
+         y="-474.39917"
+         x="852.35748"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-474.39917"
+           x="852.35748"
+           id="tspan4389"
+           sodipodi:role="line">h8</tspan></text>
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="888.96765"
+         y="-633.04327"
+         id="text4391"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4393"
+           x="888.96765"
+           y="-633.04327">j9</tspan></text>
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4395"
+         y="-470.33142"
+         x="960.83203"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-470.33142"
+           x="960.83203"
+           id="tspan4397"
+           sodipodi:role="line">k10</tspan></text>
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="845.13251"
+         y="-373.40219"
+         id="text4399"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4401"
+           x="845.13251"
+           y="-373.40219">l13</tspan></text>
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4403"
+         y="-216.77208"
+         x="888.96765"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-216.77208"
+           x="888.96765"
+           id="tspan4405"
+           sodipodi:role="line">m12</tspan></text>
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="808.28967"
+         y="-446.6026"
+         id="text4411"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4413"
+           x="808.28967"
+           y="-446.6026">g1/6</tspan></text>
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4419"
+         y="-445.92468"
+         x="1005.5778"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-445.92468"
+           x="1005.5778"
+           id="tspan4421"
+           sodipodi:role="line">g2/7</tspan></text>
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4423"
+         y="-377.40186"
+         x="965.90686"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-377.40186"
+           x="965.90686"
+           id="tspan4425"
+           sodipodi:role="line">n11</tspan></text>
+      <circle
+         transform="matrix(0,1,-1,0,0,0)"
+         r="16.29941"
+         cy="-162.778"
+         cx="1091.9989"
+         id="path4427-8"
+         style="display:inline;opacity:0.725;fill:none;fill-opacity:0;stroke:#000000;stroke-width:2.83464551;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1054.8649"
+         y="-145.25859"
+         id="text4443"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4445"
+           x="1054.8649"
+           y="-145.25859">dp14</tspan></text>
+      <polygon
+         transform="matrix(0,36.763368,-31.763709,0,719.95384,738.75588)"
+         id="a-3"
+         points="2,2 1,1 2,0 8,0 9,1 8,2 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07214466;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(0,36.763368,-31.763709,0,719.95384,738.75588)"
+         id="b-7"
+         points="8,2 9,1 10,2 10,8 9,9 8,8 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07214466;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(0,36.763368,-31.763709,0,719.95384,738.75588)"
+         id="c-1"
+         points="8,10 9,9 10,10 10,16 9,17 8,16 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07214466;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(0,36.763368,-31.763709,0,719.95384,738.75588)"
+         id="d-3"
+         points="8,16 9,17 8,18 2,18 1,17 2,16 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07214466;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(0,36.763368,-31.763709,0,719.95384,738.75588)"
+         id="e-7"
+         points="2,16 1,17 0,16 0,10 1,9 2,10 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07214466;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(0,36.763368,-31.763709,0,719.95384,738.75588)"
+         id="f-1"
+         points="2,8 1,9 0,8 0,2 1,1 2,2 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07214466;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(0,36.763368,-31.763709,0,719.95384,738.75588)"
+         id="g1-2"
+         points="2,10 1,9 2,8 4,8 5,9 4,10 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07214466;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(0,36.763368,-31.763709,0,719.95384,738.75588)"
+         id="g2-4"
+         points="6,10 5,9 6,8 8,8 9,9 8,10 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07214466;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(0,36.763368,-31.763709,0,719.95384,738.75588)"
+         id="h-8"
+         points="4,2 6,2 6,8 5,9 4,8 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07214466;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(0,36.763368,-31.763709,0,719.95384,738.75588)"
+         id="i-0"
+         points="4,10 5,9 6,10 6,16 4,16 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07214466;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(0,36.763368,-31.763709,0,719.95384,738.75588)"
+         id="j-9"
+         points="2,3 2,2 3,2 4,7 4,8 3,8 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07214466;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(0,36.763368,-31.763709,0,719.95384,738.75588)"
+         id="k-8"
+         points="7,2 8,2 8,3 7,8 6,8 6,7 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07214466;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(0,36.763368,-31.763709,0,719.95384,738.75588)"
+         id="l-6"
+         points="6,11 6,10 7,10 8,15 8,16 7,16 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07214466;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <polygon
+         transform="matrix(0,36.763368,-31.763709,0,719.95384,738.75588)"
+         id="m-3"
+         points="3,10 4,10 4,11 3,16 2,16 2,15 "
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07214466;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         y="710.26379"
+         x="135.03319"
+         height="424.19684"
+         width="601.36218"
+         id="rect4273"
+         style="display:inline;opacity:0.725;fill:none;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="339.26041"
+       y="66.647919"
+       id="text5492"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5494"
+         x="339.26041"
+         y="66.647919">Back</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5496"
+       y="578.07648"
+       x="351.32339"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="578.07648"
+         x="351.32339"
+         id="tspan5498"
+         sodipodi:role="line">Top</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="271.42856"
+       y="1013.7908"
+       id="text5500"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5502"
+         x="271.42856"
+         y="1013.7908">Leon van den Beukel - 2018</tspan></text>
+  </g>
+</svg>
